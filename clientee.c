@@ -3,7 +3,7 @@
 #include <string.h>
 #include <locale.h>
 #include <time.h>
-
+// continuo
 #define MAX_CLIENTES 1000 // Quantidade de clientes que são suportados pelo sistema
 #define TAM_NOME 1000 // Tamanho máximo do nome
 #define TAM_ENDERECO 2000 // Tamanho máximo do endereco

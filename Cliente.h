@@ -1,3 +1,5 @@
+//dividido
+
 // Essa classe funciona de forma mais estrutual para o funcionamento da classe "Cliente"
 #ifndef CLIENTE_H
 #define CLIENTE_H

@@ -3,7 +3,7 @@
 #include <string.h>
 #include "Automoveis.h"
 
-
+//dividido
 // Implementação das variáveis globais declaradas em estruturas.h
 Automovel automoveis[MAX_AUTOMOVEIS];
 int numAutomoveis = 0;

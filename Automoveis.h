@@ -1,3 +1,4 @@
+//dividido
 // Essa classe funciona de forma mais estrutual para o funcionamento da classe automoveiss
 #ifndef AUTOMOVEIS_H
 #define AUTOMOVEIS_H

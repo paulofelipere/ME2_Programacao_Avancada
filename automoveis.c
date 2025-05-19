@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <locale.h>
-
+//continuo
 #define MAX_AUTOMOVEIS 1000 // Quantidade máxima de automoveis que são suportados pelo sistema
 
 typedef struct {
