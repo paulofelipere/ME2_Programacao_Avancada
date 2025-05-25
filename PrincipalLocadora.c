@@ -747,7 +747,7 @@ void buscarFuncionario() {
         pausar();
         return;
     }
-
+    // busca de funcionarios por CPF
     char cpfBusca[15];
     printf("\t Digite o CPF do funcionario: ");
     scanf(" %[^\n]", cpfBusca);
