@@ -393,20 +393,6 @@ void removerCliente() {
 
 /////////////////////////////// CADASTRO DE AUTOMÓVEIS  ///////////////////////////////////////
 
-// Estrutura para locações
-typedef struct {
-    int idLocacao;
-    int idCliente;
-    int idAutomovel;
-    Data dataInicio;
-    Data dataFim;
-    float valorTotal;
-    int ativa;
-} Locacao;
-
-#define MAX_LOCACOES 1000
-Locacao locacoes[MAX_LOCACOES];
-int numLocacoes = 0;
 
 #define MAX_AUTOMOVEIS 1000 // Quantidade máxima de automoveis que são suportados pelo sistema
 
