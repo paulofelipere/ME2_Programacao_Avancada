@@ -162,11 +162,6 @@ Cliente clientes[MAX_CLIENTES];
 int numClientes = 0;
 
 
-
-
-
-
-
 // Funções que serão utilizadas
 
 void cadastrarCliente();
