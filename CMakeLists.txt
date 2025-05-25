@@ -6,4 +6,6 @@ set(CMAKE_C_STANDARD 11)
 add_executable(ME2 main.c
         clientee.c
         automoveis.c
+        funcioario.c
+        PrincipalLocadora.c
 )
